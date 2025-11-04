@@ -1,2 +1,23 @@
+# === Core Dependencies ===
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# === Data Download ===
+yfinance>=0.2.40
+
+# === Optimization ===
+scipy>=1.11.0
+
+# === Optional: Visualization / Plotting Enhancements ===
+seaborn>=0.12.2
+
+# === Optional: Interactive / Development Utilities ===
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# === Compatibility & System ===
+python-dateutil>=2.8.2
+
 
 
